@@ -1,0 +1,38 @@
+Each element should contain the following information (if applicable):
+Type
+colour
+xy coordinates
+width and height
+animation
+font
+active/inactive state 
+W	H	R	X	Y	HEX:#	FONT:
+-----------screen_summary_04—————
+background:	
+	#4A58A4
+*divide by twoooo*
+css @2x:		
+	header bar:
+		W2048	H196
+	hamburger:	
+		WHR	X50px	Y88px	HEX:#F2F2F2
+	password-field:
+		W1118	H270	R135	X562	Y667	HEX:#F2F2F2	FONT:OS
+	
+	OK-button-top-inactive:
+		W437	H218	R93	X1215	Y1024	HEX:#F09721
+	OK-button-top-active:
+		W437	H218	R93	X1215	Y1024	HEX:#F2F2F2
+	OK-button-bottom:
+		W437	H218	R93	X1242	Y1051	HEX:#D65727
+	OK-button-text: 
+		X142	Y57	HEX:#F2F2F2	FONT:VB		pt119.29			*coordinates are inside button div
+		
+images:		
+	lock-icon:
+		W131	H193	R	X390	Y700	HEX:#F2F2F2
+	peeking-graphic:
+		W806	H485	R	X55	Y1052	
+buttons:
+
+

@@ -1,0 +1,15 @@
+Each element should contain the following information (if applicable):
+Type
+colour
+xy coordinates
+width and height
+animation
+font
+active/inactive state 
+
+-----------screen_summary_02-----------
+background:	#4A58A4
+images:		welcome_graphic@2x.png
+			W1058	H1536
+			*Divide by twoooo*	Left top corner:	X496px	Y0px
+buttons: press center
